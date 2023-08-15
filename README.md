@@ -24,3 +24,6 @@ You will need a screwdriver, a programmer, smooth hands and a little luck)
 * Compare two files.
 * A copy of the second program needs to be modified.
 * For example, I attach three files, with an error, after erasing, and a working one.
+*
+* 
+* If you have any questions, write maksolehyazv@gmail.com
