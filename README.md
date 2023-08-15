@@ -1,3 +1,3 @@
 # weidmuller-
 Weidmuller PRINTJET ADVANCED 230V
-![Weidmuller PRINTJET ADVANCED 230V](file:///D:/Download/Weidmuller%20PRINTJET%20ADVANCED%20230V%202.jpg)
+![Weidmuller PRINTJET ADVANCED 230V](https://cdn.pressebox.de/a/030d574ca176c798/attachments/0576552.attachment/filename/Photo+PJA_1.jpg)
